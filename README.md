@@ -19,11 +19,11 @@ Pretrained model can be found in https://drive.google.com/file/d/1eT2QEK-0ZNQFj-
 
 Citation
 
-@article{zheng2020learning,
-  title={Learning Semantic-aware Normalization for Generative Adversarial Networks},
-  author={Zheng, Heliang and Fu, Jianlong and Zeng, Yanhong and Luo, Jiebo and Zha, Zheng-Jun},
-  journal={Advances in Neural Information Processing Systems},
-  volume={33},
-  pages={21853--21864},
-  year={2020}
-}
+    @article{zheng2020learning,
+      title={Learning Semantic-aware Normalization for Generative Adversarial Networks},
+      author={Zheng, Heliang and Fu, Jianlong and Zeng, Yanhong and Luo, Jiebo and Zha, Zheng-Jun},
+      journal={Advances in Neural Information Processing Systems},
+      volume={33},
+      pages={21853--21864},
+      year={2020}
+    }
