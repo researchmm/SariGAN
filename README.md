@@ -17,7 +17,7 @@ bash fid.sh
 
 Pretrained model can be found in https://drive.google.com/file/d/1eT2QEK-0ZNQFj-daL3ga6QOoXqBLe8oR/view?usp=sharing
 
-Citation
+# Citation
 
     @article{zheng2020learning,
       title={Learning Semantic-aware Normalization for Generative Adversarial Networks},
